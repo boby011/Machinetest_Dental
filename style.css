@@ -1,0 +1,126 @@
+.navbar-nav .nav-item {
+    margin-right: 25px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 16px;
+
+    color: #333;
+    transition: 0.3s ease; 
+}
+
+
+.navbar-nav .nav-item:last-child {
+    margin-right: 0;
+}
+.navbar-nav .nav-link:hover {
+    color: #FFA500;
+}
+
+.appoi-button {
+    background-color: #FFA500;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+
+.custom-background {
+    background-image: url('/images/backgrounmain.jpg');
+
+
+    background-size: cover;
+    height: 734px;
+  
+    position: relative;
+    top: 35px;
+    width: 80%;
+    right: 5px;
+    margin-left: 20%;
+    margin-right: 0;
+}
+
+.move-left {
+    margin-left: -225px;
+    margin-top: 100px;
+
+}
+
+.small-image {
+    margin-left: 1350px;
+   margin-top: -980px;
+}
+
+.google-box{
+    margin-left: -200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.wtsp-box{
+    margin-left: -100px;
+    margin-top: -300px;
+}
+
+.arrow{
+    margin-top: 200px;
+    margin-left: -250px;
+}
+
+.long-box {
+    width: 110%; 
+    display: block;
+    margin-left: -190px;
+    margin-top: -50px;
+    
+}
+
+.second-head{
+     margin-left: 60px;
+    margin-top: 40px;
+    
+}
+.second-para{
+    margin-left: 60px;
+}
+
+.second-page{
+    margin-left: 60px;
+}
+
+.doctor-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.person-img {
+    width: 320px;
+    height: 353px;
+    margin-top: -150px; 
+    margin-bottom: 10px;
+}
+
+.doctor-profile h1 {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.doctor-profile p {
+    font-size: 16px;
+    color: grey;
+    margin: 0;
+}
+
+.doctor-info {
+    margin-left: -150px;
+    text-align: left; 
+    margin-top: 10px; 
+}
+
+.doctor-info h1 {
+    font-size: 18px;
+    margin: 0;
+}
